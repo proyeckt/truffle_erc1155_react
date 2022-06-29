@@ -1,0 +1,16 @@
+{
+  "id":2,
+  "name":"Silver",
+  "image":"https://gateway.pinata.cloud/ipfs/QmQX5crU5PejAxWV1i8tEvhnyiAUWdN9avbj3jd3kLBLwU/Silver.png",
+  "attributes":[
+    {
+      "feature":"primaryColor",
+      "value":"silver"
+    },
+    {
+      "feature":"primaryElement",
+      "value":"coin"
+    }
+  ],
+  "description":"Silver Coin"
+}

@@ -1,0 +1,16 @@
+{
+  "id":4,
+  "name":"Sword",
+  "image":"https://gateway.pinata.cloud/ipfs/QmQX5crU5PejAxWV1i8tEvhnyiAUWdN9avbj3jd3kLBLwU/Sword.png",
+  "attributes":[
+    {
+      "feature":"primaryColor",
+      "value":"white"
+    },
+    {
+      "feature":"primaryElement",
+      "value":"sword"
+    }
+  ],
+  "description":"Sword"
+}
